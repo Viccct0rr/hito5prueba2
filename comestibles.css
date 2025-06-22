@@ -426,6 +426,10 @@ body{
     display: none;
   }
 
+  .pastel{
+    justify-items: center;
+  }
+
   
 
   .pastel__texto{
@@ -441,6 +445,10 @@ body{
     font-size: 1rem;
   }
 
+  .bunuelo{
+    justify-items: center;
+  }
+
   
 
 
@@ -453,6 +461,10 @@ body{
 
   .bunuelo__p{
     font-size: 1rem;
+  }
+
+  .tawa{
+    justify-items: center;
   }
   
   .tawa__texto{
