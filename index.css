@@ -122,6 +122,11 @@
     
 }
 
+article {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
 .slither-box{
     width: 100%;
     height: auto;
@@ -136,6 +141,7 @@
     padding: 0;
 
 }
+
 
 .slither-box li{
     flex: 0 0 25%; 
@@ -186,7 +192,7 @@
     font-size: 24px;
     position: absolute;
     bottom: 55px;
-    right: 180px;
+    right: 110px;
     background-color: #98002e;
     color: white;
     padding: 10px 20px;
@@ -216,7 +222,7 @@
     display: inline-block;
     border-radius: 4px;
     position: relative;
-    left: -12.5%;
+    left: -8.5%;
     top: -15px;
 
 }

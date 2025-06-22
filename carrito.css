@@ -458,6 +458,36 @@ body{
     padding: 10px;
   }
 
+  .texto__compra{
+    font-size: 2rem;
+  }
+
+  .buy__texto1{
+    font-size: 1rem;
+  }
+
+  .buy__imagen{
+    width: 50%;
+  }
+
+  .buy__textod{
+    font-size: 12px;
+  }
+
+  .buy__textop{
+    font-size: 12px;
+  }
+
+
+  .buy__tipo-entrega i{
+    font-size: 3rem;
+  }
+
+  .buy__personw i{
+    font-size: 3rem;
+  }
+  
+
   .cart{
     color: #98002e;
   }
